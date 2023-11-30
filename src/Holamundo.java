@@ -6,6 +6,7 @@ public class Holamundo {
 		
 		System.out.println("Hola mundo");
 		System.out.println("Buenos dias");
+		System.out.println("Sabes quien es Nando, pues Fernando");
 	}
 
 }
