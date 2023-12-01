@@ -8,6 +8,7 @@ public class Holamundo {
 		System.out.println("Buenos dias");
 		System.out.println("Sabes quien es Nando, pues Fernando");
 		System.out.println("Estoy en la rama1");
+		System.out.println("Estoy en la rama Version2");
 	}
 
 }
